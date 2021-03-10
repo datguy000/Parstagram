@@ -37,6 +37,10 @@ Here are the users in the database after the sign up:
 
 <img src='https://github.com/datguy000/Parstagram/blob/master/Parstagram_Part1_Users.png' width='250' alt='Parse User Lookup' />
 
+Here is a brief showcase of account persisence:
+
+<img src='https://github.com/datguy000/Parstagram/blob/master/Parstagram_Part1_Persistence.gif' width='250' alt='Icon Walkthrough' />
+
 Here is a brief showcase of the app icon in the home screen:
 
 <img src='https://github.com/datguy000/Parstagram/blob/master/Parstagram_Part1_Icon.gif' width='250' alt='Icon Walkthrough' />
