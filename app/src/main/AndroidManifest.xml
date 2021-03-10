@@ -20,6 +20,7 @@
         android:roundIcon="@mipmap/ic_launcher2_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Parstagram">
+        <!--android:usesCleartextTraffic="true"-->
 
         <provider
             android:name="androidx.core.content.FileProvider"
