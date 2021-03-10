@@ -14,7 +14,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-- [X] User sees app icon in home screen ~~and styled bottom navigation view~~
+- [X] User sees app icon in home screen and styled bottom navigation view
 - [ ] Style the feed to look like the real Instagram feed.
 - [ ] User can load more posts once he or she reaches the bottom of the feed using infinite scrolling.
 - [ ] Show the username and creation time for each post.
@@ -59,6 +59,10 @@ Here is a brief showcase of the app icon in the home screen:
 Here is what the app looks like now:
 
 <img src='https://github.com/datguy000/Parstagram/blob/master/Parstagram_Part2.gif' width='250' alt='Icon Walkthrough' />
+
+Here are some minor UI changes I made to the bottom nav bar and post format:
+
+<img src='https://github.com/datguy000/Parstagram/blob/master/Parstagram_Part2_Minor_UI_Changes.png' width='250' alt='Icon Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
